@@ -9,11 +9,11 @@ This project will provide a GUI based application whose main goal is to keep tra
 
 The product is viable for every organization irrespective of its size or structure. This application helps in cutting down the efforts to maintain ledgers or books and therefore reducing the cost of manpower and stationery. The only requirements are:-
 
-1. 1)A Java compatible OS
-2. 2)Local MySQL server
-3. 3)Basic hardware requirements needed to run any computer
-4. 4)JRE Version 1.8+
-5. 5)JDK Version 7+
+   1. A Java compatible OS
+   2. Local MySQL server
+   3. Basic hardware requirements needed to run any computer
+   4. JRE Version 1.8+
+   5. JDK Version 7+
 
 
 
@@ -82,9 +82,9 @@ The StudentRecord.java class provides with an interface which allows us to eithe
 
     The user can enter:
 
-    a) **ALL – for displaying all student records**
-    b)**Specific Name – for displaying student(s) record with the entered name**
-    c) **ID – for displaying student record based on ID which is unique**
+    a) ALL – for displaying all student records
+    b) Specific Name – for displaying student(s) record with the entered name
+    c) ID – for displaying student record based on ID which is unique
 
 ### 5) **addToDB.java**
 
